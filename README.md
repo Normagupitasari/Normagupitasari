@@ -4,11 +4,8 @@
 ---
 
 ### 🔍 About Me  
-Passionate about ensuring software quality through detail-oriented testing and continuous learning.  
 
-- 💡 Experienced in **manual testing** and currently exploring **automation testing** with Python, Selenium, and API testing tools.  
-- 📚 Self-taught QA with strong interest in **SDLC, testing methodologies, and automation frameworks**.  
-- 🌱 Currently learning **HTML, CSS, and JavaScript** to strengthen frontend and web application testing skills.  
+I am a fast learner and highly adaptable individual with a strong interest in software quality. Currently, I am deepening my skills in manual testing while starting to explore automation testing. I have a good understanding of the Software Development Life Cycle (SDLC) and am familiar with testing tools such as JavaScript, Selenium WebDriverIo, Cypress, Postman, JMeter, and Appium. To strengthen my capabilities in testing frontend and web applications, I am also learning HTML, CSS, and JavaScript. My goal is to grow as a Quality Assurance Engineer by combining solid manual testing skills with automation expertise, contributing to the development of reliable and user-friendly software products.  
 
 ---
 
