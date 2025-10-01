@@ -5,7 +5,10 @@
 
 ### 🔍 About Me  
 
-I am a fast learner and highly adaptable individual with a strong interest in software quality. Currently, I am deepening my skills in manual testing while starting to explore automation testing. I have a good understanding of the Software Development Life Cycle (SDLC) and am familiar with testing tools such as JavaScript, Selenium WebDriverIo, Cypress, Postman, JMeter, and Appium. To strengthen my capabilities in testing frontend and web applications, I am also learning HTML, CSS, and JavaScript. My goal is to grow as a Quality Assurance Engineer by combining solid manual testing skills with automation expertise, contributing to the development of reliable and user-friendly software products.  
+I am a fast learner and highly adaptable individual with a strong interest in software quality. Currently, I am deepening my skills in manual testing while starting to explore automation testing. I have a good understanding of the Software Development Life Cycle (SDLC) and am familiar with testing tools such as JavaScript, Selenium WebDriver, Cypress, WebdriverIO, Postman, JMeter, and Appium.  
+
+To strengthen my capabilities in testing frontend and web applications, I am also learning HTML, CSS, and JavaScript. My goal is to grow as a Quality Assurance Engineer by combining solid manual testing skills with automation expertise, contributing to the development of reliable and user-friendly software products.  
+  
 
 ---
 
