@@ -1,5 +1,5 @@
 # 👩‍💻 Norma Gupitasari  
-**Quality Assurance Engineer | Automation & Manual Testing**
+**Quality Assurance Engineer | Manual & Automation Testing**
 
 ---
 
